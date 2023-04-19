@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://caaaa-a.github.io/about/index.html</loc>
+    <loc>https://caaaa-a.github.io/en/about/index.html</loc>
     
     <lastmod>2023-04-17</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://caaaa-a.github.io/2022/01/04/hello-world/</loc>
+    <loc>https://caaaa-a.github.io/en/2022/01/04/hello-world/</loc>
     
     <lastmod>2022-01-06</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://caaaa-a.github.io/categories/index.html</loc>
+    <loc>https://caaaa-a.github.io/en/categories/index.html</loc>
     
     <lastmod>2022-01-06</lastmod>
     
@@ -30,8 +30,8 @@
   
 
   <url>
-    <loc>https://caaaa-a.github.io/</loc>
-    <lastmod>2023-04-17</lastmod>
+    <loc>https://caaaa-a.github.io/en</loc>
+    <lastmod>2023-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -40,8 +40,8 @@
 
   
   <url>
-    <loc>https://caaaa-a.github.io/categories/hello/</loc>
-    <lastmod>2023-04-17</lastmod>
+    <loc>https://caaaa-a.github.io/en/categories/hello/</loc>
+    <lastmod>2023-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

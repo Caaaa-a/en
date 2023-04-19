@@ -1,5 +1,5 @@
-https://caaaa-a.github.io/about/index.html
-https://caaaa-a.github.io/2022/01/04/hello-world/
-https://caaaa-a.github.io/categories/index.html
-https://caaaa-a.github.io/
-https://caaaa-a.github.io/categories/hello/
+https://caaaa-a.github.io/en/about/index.html
+https://caaaa-a.github.io/en/2022/01/04/hello-world/
+https://caaaa-a.github.io/en/categories/index.html
+https://caaaa-a.github.io/en
+https://caaaa-a.github.io/en/categories/hello/
